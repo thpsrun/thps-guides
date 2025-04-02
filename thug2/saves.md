@@ -22,7 +22,7 @@ To make a save:
 
 Each time you start a new run you'll need to load the appropriate file.
 
-**Create-A-Tricks (CATs)**
+## **Create-A-Tricks (CATs)**
 Useful CATs for the run include:
 *   Sit Flip & Rocket Air (Berlin)
 *   Double Kickflip (Australia)
