@@ -7,7 +7,10 @@ To go with this, the following rules are to be followed; approvers must adhere t
 1. **You MUST use the template below**. thps.run's workflow of serving .MD files is configured a specific way; there is no compromises. At the minimum, `Title`, `Website Tags`, `Discovered/Created By`, and `Complexity` are to be included.
 2. Consistency with guides is key! Approvers are allowed to deny a PR if your style doesn't make sense. Outside of the first four lines, you **ARE** allowed to be expressive. However, if the style is crazy, we might ask for changes.
 3. It is recommended you use a website like [StackEdit](https://stackedit.io/) to help make the markdown files in real-time. If there are any issues with formatting, let us know!
-4. The usual Rules of Conduct still apply here. Don't be an idiot.
+4. Within each directory, the names need to:
+    a.  Have a unique name (a "slug") to describe the file. No spaces. No special characters. All lowercase.
+    b.  Each file must end with ".md"
+5. The usual Rules of Conduct still apply here. Don't be an idiot.
 
 ## Template
 
