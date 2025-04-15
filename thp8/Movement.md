@@ -25,6 +25,9 @@ Rail Hopping is powerful in virtually every situation, except for going downhill
 ## Rail Dropdowns
 
 ## Pivots
+
+[youtube align=right]https://youtu.be/gxYIm8W4UTo[/youtube]
+
 This is speaking of pivots ***strictly*** in the sense of you jumping into or out of it. Pivots are used mid-manual a lot due to an easy way to increase the multiplier in a combo or just to mess around when waiting for the timer to expire.
 
 Pivots are a new tech added to the Rank 1 route; its viability was discovered by ThePackle and added into the route to circumvent some goals. Pivots pressed with R2/RT and usually spin the skater in place, especially. Pivots have some very strange mechanics compared to other tricks in the game, namely to "cut" corners in gaps or goals.
