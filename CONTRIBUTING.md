@@ -14,7 +14,8 @@ To go with this, the following rules are to be followed; approvers must adhere t
 
 ## Template
 
-```**Title**: NAME OF YOUR GUIDE 
+```
+**Title**: NAME OF YOUR GUIDE 
 **Website Tags**: TAGS FOR YOUR GUIDE
 **Discovered By**: WHO DISCOVERED THIS? (Use "Community" (no quotes) if it is unknown)
 **Complexity**: (Beginner / Intermediate / Advanced / Expert)
